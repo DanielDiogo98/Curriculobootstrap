@@ -1,0 +1,14 @@
+
+.banner {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.texto_banner{
+    width: 700px;
+    padding: 50px;
+    margin: 20px;
+}
