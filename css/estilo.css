@@ -18,7 +18,7 @@
     width:35%;
     float: right;
     bottom: 150px;
-    
+    border-radius: 50%;
 } 
 .menu ul a{
     text-decoration: none;
